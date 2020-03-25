@@ -8,13 +8,13 @@
 
 ### 安卓 7.X
 
-点[这里](resources)下载对应img文件
+点[这里](resources)下载对应img文件 -暂缺
 
-MD5：
+MD5：--
 
 ### 安卓8.x
 
-点[这里](resources)下载对应img文件
+点[这里](resources)下载对应img文件 -搬运自时代的导航者
 
 MD5：
 
