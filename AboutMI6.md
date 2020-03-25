@@ -22,4 +22,6 @@ Rom：64 GB或128 GB
 
 充电接口：Type C
 
-Bootloader锁：官解
+Bootloader锁：可官解
+
+（c）2020，BootLoaderANK
