@@ -25,3 +25,9 @@
 ### 许可证
 
 想了解的话，点[这里](/Not Found.md)
+
+### 彩蛋
+
+[一键404](/Not Found.md)（误）
+
+(c)BootLoaderANK,2020
