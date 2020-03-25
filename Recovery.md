@@ -8,7 +8,7 @@
 
 ### 安卓 7.X
 
-点[这里]()下载对应img文件 -暂缺
+点[这里](/blob/master/EmptyPathTWRP.md)下载对应img文件 -暂缺
 
 MD5：--
 
