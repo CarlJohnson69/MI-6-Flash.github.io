@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 欢迎
 
-You can use the [editor on GitHub](https://github.com/CarlJohnson69/CarlJohnson69.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这个网站建立的目的是帮助各位钉子户（大佬）们分享资源和刷机包。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Hasher](hasher)可以在这里下载到。
 
-### Markdown
+### 小米6
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+点[这里]( )了解这台水桶机
 
-```markdown
-Syntax highlighted code block
+### 第三方Recovery&刷机包
+[这里是下载入口](url)
+祝你刷机半生，归来仍是原生（误）
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CarlJohnson69/CarlJohnson69.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###SU，面具&XP相关
+[在这里](url)
