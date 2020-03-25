@@ -2,7 +2,7 @@
 
 这个网站建立的目的是帮助各位钉子户（大佬）们分享资源和刷机包。
 
-[Hasher](https://www.github.com/CarlJohnson69/MI-6-Flash.github.io/blob/Files/)可以在这里下载到。
+[Hasher](https://www.github.com/CarlJohnson69/MI-6-Flash.github.io/blob/Files/hasher.exe)可以在这里下载到。
 
 ### 小米6
 
