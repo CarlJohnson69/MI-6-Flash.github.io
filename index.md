@@ -10,7 +10,7 @@
 
 ### 第三方Recovery&刷机包
 
-[这里是下载入口](/Recovery.md)
+[这里是下载入口](/Recovery&System.md)
 
 祝你刷机半生，归来仍是原生（误）
 
