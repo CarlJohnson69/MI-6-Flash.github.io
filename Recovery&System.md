@@ -41,9 +41,9 @@ MD5：--
 
 点[这里](/TWRP APP/me.twrp.twrpapp-26.apk)下载me.twrp.twrpapp-26
 
-'''
+```
 MD5：D459D75188852A0A41290C85B3849D2A
-'''
+```
 
 ## 系统
 
