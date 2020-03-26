@@ -39,7 +39,7 @@ MD5：--
 
 ### TWRP APP
 
-点[这里](https://www.lanzous.com/ianju4b)下载me.twrp.twrpapp-26
+点[这里](/TWRP APP/me.twrp.twrpapp-26.apk)下载me.twrp.twrpapp-26
 
 '''
 MD5：D459D75188852A0A41290C85B3849D2A
