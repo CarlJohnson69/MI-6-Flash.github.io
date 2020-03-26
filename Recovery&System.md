@@ -9,13 +9,12 @@
 注意TWRP上网站上的原话-Team Win致力于提供优质的产品。但是，由您决定在设备上安装我们的软件。对于安装或使用TWRP可能造成的任何损坏，Team Win不承担任何责任。（本站也不承担任何责任）
 
 ```
-由于GiHub限制这种储存库最高1GB，浏览器上传（我懒得弄Git Push）限制25MB，大文件都已传到网盘（100MB以内的传到蓝奏，100MB以上的传到百度网盘）
 目前这个页面还在维护，届时某些链接会暂时失效
 ```
 
 ### 安卓 7.X
 
-点[这里](https://www.lanzous.com/ianj6tc)下载对应img文件
+点[这里](https:\/\/development2.baidupan.com\/032611bb\/2020\/03\/26\/0d1245c7e858363185059b4c8d25db22.img?st=UrKVkJchh0po38O7Rib4LA&e=1585195734&b=AScMewd1B3JWLgJnVykCNFMoAWwEKFBmUy0AfgBmXjsAO1svV3pVHlUuU2wLNlc0&fi=19621722&up="})下载对应img文件
 
 ```
 MD5：D616BD81EC0F31D1FE1D3C04ACEBE412
